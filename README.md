@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dijadoo
+- 👋 Hi, I’m @dijadoo aka kristin
 - 👀 I’m interested in full stack web development, design, ux/ui, app development, android, wildflowers
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
